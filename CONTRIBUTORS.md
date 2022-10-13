@@ -1,8 +1,5 @@
 <h2 align="left">CONTRIBUTORS</h2>
 
-<p>Name: abc <br>
-Location: xyz <br>
-Github link:  https://github:com/abc</p>
 
 
 <p>Name: Swayam Agrahari <br>
@@ -15,6 +12,12 @@ Location: Delhi, India <br>
 Github link:  https://github.com/LakshaySK106</p>
 
 
+<p>Name: Prajwal Acharya <br>
+Location: Nepal <br>
+Github link:  https://github:com/meprajwal</p>
+
+
 <p>Name : Rachan Phuyal <br>
-  location : Jhapa , Nepal <br>
-  Github link : https://github.com/rachannzz</p>
+location : Jhapa , Nepal <br>
+Github link : https://github.com/rachannzz</p>
+
