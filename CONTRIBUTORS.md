@@ -16,5 +16,5 @@ Github link:  https://github.com/LakshaySK106</p>
 
 
 <p>Name : Rachan Phuyal <br>
-  location : Delhi, India <br>
+  location : Jhapa , Nepal <br>
   Github link : https://github.com/rachannzz</p>
