@@ -18,8 +18,8 @@ Github link:  https://github:com/meprajwal</p>
 
 
 <p>Name : Rachan Phuyal <br>
-location : Jhapa , Nepal <br>
-Github link : https://github.com/rachannzz</p>
+location : Jhapa Damak , Nepal <br>
+Github link : (https://github.com/rachannzz)</p>
 
 
 <p>Name : BhanuPrakash <br>
